@@ -24,7 +24,7 @@ C1206 (3216)
 ]
 [
 C4
-C0402 (1005), TIGHT
+C0402 (1005)
 100nF
 
 
@@ -32,7 +32,7 @@ C0402 (1005), TIGHT
 ]
 [
 C5
-C0402 (1005), TIGHT
+C0402 (1005)
 100nF
 
 
@@ -40,7 +40,7 @@ C0402 (1005), TIGHT
 ]
 [
 C6
-C0402 (1005), TIGHT
+C0402 (1005)
 100nF
 
 
@@ -48,7 +48,7 @@ C0402 (1005), TIGHT
 ]
 [
 C7
-C0402 (1005), TIGHT
+C0402 (1005)
 100nF
 
 
@@ -248,7 +248,7 @@ BAT54W
 ]
 [
 D5
-C0402 (1005), TIGHT
+R0402 (1005)
 TVS/ESD
 
 
@@ -256,7 +256,7 @@ TVS/ESD
 ]
 [
 D6
-C0402 (1005), TIGHT
+R0402 (1005)
 TVS/ESD
 
 
@@ -440,7 +440,7 @@ STM32WB1MMCH6TR
 ]
 [
 MTG1
-Mounting Hole M3 TIGHT
+Mounting Hole M3
 Mounting Hole M3
 
 
@@ -448,7 +448,7 @@ Mounting Hole M3
 ]
 [
 MTG2
-Mounting Hole M3 TIGHT
+Mounting Hole M3
 Mounting Hole M3
 
 
@@ -456,7 +456,7 @@ Mounting Hole M3
 ]
 [
 MTG3
-Mounting Hole M3 TIGHT
+Mounting Hole M3
 Mounting Hole M3
 
 
@@ -464,7 +464,7 @@ Mounting Hole M3
 ]
 [
 MTG4
-Mounting Hole M3 TIGHT
+Mounting Hole M3
 Mounting Hole M3
 
 
@@ -472,7 +472,7 @@ Mounting Hole M3
 ]
 [
 MTG5
-Mounting Hole M3 TIGHT
+Mounting Hole M3
 Mounting Hole M3
 
 
@@ -480,7 +480,7 @@ Mounting Hole M3
 ]
 [
 MTG6
-Mounting Hole M3 TIGHT
+Mounting Hole M3
 Mounting Hole M3
 
 
@@ -488,7 +488,7 @@ Mounting Hole M3
 ]
 [
 MTG7
-Mounting Hole M3 TIGHT
+Mounting Hole M3
 Mounting Hole M3
 
 
@@ -552,7 +552,7 @@ R0603 (1608)
 ]
 [
 R3
-R0402 (1005), TIGHT
+R0402 (1005)
 10K
 
 
@@ -568,7 +568,7 @@ R0603 (1608)
 ]
 [
 R5
-R0603 (1608), TIGHT
+R0603 (1608)
 100K
 
 
@@ -592,23 +592,15 @@ R0402 (1005)
 ]
 [
 R8
-R0805 (2012), TIGHT
+R0805 (2012)
 10M
 
 
 
 ]
 [
-R9
-R0402 (1005), TIGHT
-10K
-
-
-
-]
-[
 R10
-R0402 (1005), TIGHT
+R0402 (1005)
 10K
 
 
@@ -616,7 +608,7 @@ R0402 (1005), TIGHT
 ]
 [
 R11
-R0603 (1608), TIGHT
+R0603 (1608)
 2K
 
 
@@ -624,7 +616,7 @@ R0603 (1608), TIGHT
 ]
 [
 R12
-R0603 (1608), TIGHT
+R0603 (1608)
 2K
 
 
@@ -632,7 +624,7 @@ R0603 (1608), TIGHT
 ]
 [
 R13
-R0402 (1005), TIGHT
+R0402 (1005)
 4.7K
 
 
@@ -640,7 +632,7 @@ R0402 (1005), TIGHT
 ]
 [
 R14
-R0402 (1005), TIGHT
+R0402 (1005)
 4.7K
 
 
@@ -648,7 +640,7 @@ R0402 (1005), TIGHT
 ]
 [
 R15
-R0402 (1005), TIGHT
+R0402 (1005)
 4.7K
 
 
@@ -696,7 +688,7 @@ R0402 (1005)
 ]
 [
 R21
-R0805 (2012), TIGHT
+R0805 (2012)
 10M
 
 
@@ -799,11 +791,6 @@ TPS54302DDCR
 
 ]
 (
-VCC
-J1-2
-J1-4
-)
-(
 VBUS
 C4-1
 D7-1
@@ -869,7 +856,6 @@ U1-1
 (
 NetMD1_22
 MD1-22
-R9-1
 R10-1
 )
 (
@@ -895,49 +881,37 @@ PTC1-1
 (
 NetJ5_6
 J5-6
-J11-6
+J11-8
 )
 (
 NetJ5_5
 J5-5
-J11-3
+J11-12
 )
 (
 NetJ5_4
 J5-4
-J11-2
+J11-4
 )
 (
 NetJ5_2
 J5-2
-J11-4
-)
-(
-NetJ2_3
-J2-3
-J9-6
-R1-1
-)
-(
-NetJ2_2
-J2-2
-J9-14
-R1-2
+J11-6
 )
 (
 NetJ1_16
 J1-16
-J10-6
+J10-8
 )
 (
 NetJ1_15
 J1-15
-J10-3
+J10-12
 )
 (
 NetJ1_13
 J1-13
-J10-2
+J10-4
 )
 (
 NetJ1_11
@@ -947,7 +921,7 @@ R19-2
 (
 NetJ1_10
 J1-10
-J10-4
+J10-6
 )
 (
 NetD13_2
@@ -1037,7 +1011,7 @@ R3-2
 )
 (
 LIN_TXD
-J1-37
+J1-12
 R13-1
 U2-4
 )
@@ -1049,7 +1023,7 @@ U2-2
 )
 (
 LIN_RXD
-J1-14
+J1-34
 R15-1
 U2-1
 )
@@ -1104,6 +1078,7 @@ J1-28
 J2-0
 J2-1
 J3-0
+J3-4
 J3-5
 J4-0
 J4-5
@@ -1117,7 +1092,11 @@ J8-5
 J8-7
 J9-5
 J10-5
+J10-7
+J10-11
 J11-5
+J11-7
+J11-11
 MD1-1
 MD1-2
 MD1-3
@@ -1199,18 +1178,30 @@ R8-1
 R21-1
 )
 (
+CAN_P
+J2-3
+J9-6
+R1-1
+)
+(
+CAN_N
+J2-2
+J9-14
+R1-2
+)
+(
 BLE_WKUP
 J1-33
 MD1-37
 )
 (
 BLE_TX
-J1-25
+J1-27
 MD1-26
 )
 (
 BLE_RX
-J1-27
+J1-25
 MD1-28
 )
 (
@@ -1229,11 +1220,6 @@ MD1-35
 BLE_MODULE_SWCLK
 J8-6
 MD1-34
-)
-(
-+5V
-J1-1
-J1-3
 )
 (
 24V_SW
@@ -1285,12 +1271,11 @@ C24-1
 C25-1
 C26-1
 J8-3
-J11-1
+J11-3
 L3-2
 MD1-16
 MD1-18
 MD1-20
-R9-2
 R13-2
 R14-2
 R15-2
