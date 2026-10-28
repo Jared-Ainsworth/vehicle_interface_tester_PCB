@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\GIT_Local\Vehicle_Interface_Tester_PCB\Vehicle_Interface_Tester.PcbDoc
+PCB File : C:\GIT_local\Vehicle_Interface_Tester_PCB\Vehicle_Interface_Tester.PcbDoc
 Date     : 10/27/2026
-Time     : 2:43:30 PM
+Time     : 9:43:42 PM
 
 Processing Rule : Clearance Constraint (Gap=0.178mm) (Disabled)(InPolygon),((InComponent('U1') OR InComponent('U3')))
 Rule Violations :0
@@ -10,23 +10,24 @@ Processing Rule : Clearance Constraint (Gap=0.254mm) (InPolygon),(InPolygon)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=0.127mm) (All),(All)
-   Violation between Clearance Constraint: (0.033mm < 0.127mm) Between Arc (38.7mm,-48.94mm) on Keep-Out Layer And Pad J7-A1_B12(38.8mm,-50.075mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.033mm < 0.127mm) Between Arc (45.3mm,-48.94mm) on Keep-Out Layer And Pad J7-B1_A12(45.2mm,-50.075mm) on Bottom Layer 
-Rule Violations :2
+Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=0.165mm) (InPolygon),(All)
-Rule Violations :0
-
-Processing Rule : Clearance Constraint (Gap=0.127mm) ((HasFootprint('Single Pin Receptacle'))),((HasFootprint('Fuse NO BOM')))
-Rule Violations :0
-
-Processing Rule : Clearance Constraint (Gap=1.5mm) (InNet('CHASSIS')),(All)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=0mm) (Disabled)(Hole),((HasFootprint('9POS D-Sub male Hearting 09551296822741')))
 Rule Violations :0
 
+Processing Rule : Clearance Constraint (Gap=0.01mm) (Disabled)((HasFootprint('Connector USB C Raised USB4800-03-A'))),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=1.5mm) (InNet('CHASSIS')),(All)
+Rule Violations :0
+
 Processing Rule : Clearance Constraint (Gap=0.2mm) (Disabled)(Hole),(InPolygon)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) ((HasFootprint('Single Pin Receptacle'))),((HasFootprint('Fuse NO BOM')))
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -89,17 +90,16 @@ Rule Violations :0
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
-Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
-   Violation between Board Outline Clearance(Outline Edge): (0.765mm < 1mm) Between Board Edge And Pad J10-(83.725mm,11.175mm) on Multi-Layer 
-   Violation between Board Outline Clearance(Outline Edge): (0.765mm < 1mm) Between Board Edge And Pad J10-(83.725mm,4.825mm) on Multi-Layer 
-   Violation between Board Outline Clearance(Outline Edge): (0.765mm < 1mm) Between Board Edge And Pad J11-(-83.725mm,11.175mm) on Multi-Layer 
-   Violation between Board Outline Clearance(Outline Edge): (0.765mm < 1mm) Between Board Edge And Pad J11-(-83.725mm,4.825mm) on Multi-Layer 
-Rule Violations :4
+Processing Rule : Board Clearance Constraint (Gap=0mm) ((HasFootprint('Connector 14 pos SAMTEC_FTSH-107-01-X-DH-A')))
+Rule Violations :0
 
-Processing Rule : Matched Lengths(Tolerance=0.381mm) (Disabled)(InNetClass('SDRAM_Data'))
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
 Rule Violations :0
 
 Processing Rule : Matched Lengths(Tolerance=0.381mm) (Disabled)(InNetClass('SDRAM_Address'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.381mm) (Disabled)(InNetClass('SDRAM_Data'))
 Rule Violations :0
 
 Processing Rule : Matched Lengths(Tolerance=0.381mm) ((InNetClass('SDRAM_Address') OR InNetClass('SDRAM_Control') OR InNetClass('SDRAM_Data')))
@@ -112,6 +112,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Di
 Rule Violations :0
 
 
-Violations Detected : 6
+Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:00
