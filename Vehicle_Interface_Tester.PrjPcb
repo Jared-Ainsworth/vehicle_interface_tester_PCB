@@ -313,26 +313,254 @@ DocumentPath=Project Outputs for Vehicle_Interface_Tester\Design Rule Check - Ve
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Pick Place for Vehicle_Interface_Tester.txt
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Pick Place\Pick Place for Vehicle_Interface_Tester.csv
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Free Documents\Gerber\Vehicle_Interface_Tester.EXTREP
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Pick Place for Vehicle_Interface_Tester.txt
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.EXTREP
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\NC Drill\Vehicle_Interface_Tester-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Vehicle_Interface_Tester\ProtelNetlist\Vehicle_Interface_Tester.NET
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.REP
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\NC Drill\Vehicle_Interface_Tester-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument8]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\NC Drill\Vehicle_Interface_Tester-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\NC Drill\Vehicle_Interface_Tester-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.1
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.2
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.3
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.4
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.5
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.6
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.7
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\NC Drill\Vehicle_Interface_Tester.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\NC Drill\Vehicle_Interface_Tester.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Free Documents\Gerber\Vehicle_Interface_Tester.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.G1
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.G2
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.G3
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.G4
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.G5
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.G6
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.GM
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.GM6
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.GM7
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.GM8
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.GM9
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.GM10
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.GM11
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.GM12
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.GM14
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.GM21
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.GM24
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.GM29
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.GML
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\NC Drill\Vehicle_Interface_Tester.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\ProtelNetlist\Vehicle_Interface_Tester.NET
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs for Vehicle_Interface_Tester\Gerber\Vehicle_Interface_Tester.REP
+DItemRevisionGUID=
+
+[GeneratedDocument65]
 DocumentPath=Project Outputs for Vehicle_Interface_Tester\ExportSTEP\Vehicle_Interface_Tester.step
 DItemRevisionGUID=
 
@@ -1324,10 +1552,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=JLC_PCB_Microcontrollers.IntLib
+ComponentDesignItemID0=STM32WB1MMCH6TR
+ComponentSymbolReference0=STM32WB1MMCH6TR
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1341,6 +1575,27 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Description
+ParameterUpdate2=1
+ParameterName3=LCSC Part Number
+ParameterUpdate3=1
+ParameterName4=Library Reference
+ParameterUpdate4=1
+ParameterName5=Manufacturer
+ParameterUpdate5=1
+ParameterName6=Manufacturer Part Number
+ParameterUpdate6=1
+ParameterName7=Package
+ParameterUpdate7=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=LGA-77
+ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
